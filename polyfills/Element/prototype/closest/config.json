@@ -8,18 +8,18 @@
 		"blissfuljs"
 	],
 	"browsers": {
-		"bb": "*",
 		"android": "<5",
+		"bb": "*",
 		"chrome": "* - 41",
+		"firefox": "6 - 34",
+		"firefox_mob": "6 - 43",
 		"ie": "*",
 		"ie_mob": "*",
 		"ios_saf": "<9",
-		"firefox": "6 - 34",
-		"opera": "<28",
 		"op_mini": "*",
 		"op_mob": "<33",
-		"safari": "<9",
-		"firefox_mob": "6 - 43"
+		"opera": "<28",
+		"safari": "<9"
 	},
 	"dependencies": [
 		"Element.prototype.matches"

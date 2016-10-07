@@ -9,17 +9,18 @@
 		"blissfuljs"
 	],
 	"browsers": {
-		"ie": "6 - *",
-		"chrome": "* - 33",
-		"firefox": "* - 33",
-		"safari": "4 - 7.0",
-		"opera": "* - 20",
-		"op_mini": "*",
-		"op_mob": "* - 32",
 		"android": "* - 4.4.4",
 		"bb": "*",
+		"chrome": "* - 33",
+		"firefox": "* - 33",
+		"ie": "6 - *",
+		"ie_mob": "*",
 		"ios_chr": "*",
-		"ios_saf": "* - 7"
+		"ios_saf": "* - 7",
+		"op_mini": "*",
+		"op_mob": "* - 32",
+		"opera": "* - 20",
+		"safari": "4 - 7.0"
 	},
 	"dependencies": [
 		"Element",
