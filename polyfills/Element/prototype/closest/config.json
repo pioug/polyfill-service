@@ -19,7 +19,8 @@
 		"op_mini": "*",
 		"op_mob": "<33",
 		"safari": "<9",
-		"firefox_mob": "6 - 43"
+		"firefox_mob": "6 - 43",
+		"samsung_mob": "<4"
 	},
 	"dependencies": [
 		"Element.prototype.matches"

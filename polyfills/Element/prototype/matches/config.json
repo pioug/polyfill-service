@@ -19,7 +19,8 @@
 		"android": "* - 4.4.4",
 		"bb": "*",
 		"ios_chr": "*",
-		"ios_saf": "* - 7"
+		"ios_saf": "* - 7",
+		"samsung_mob": "<4"
 	},
 	"dependencies": [
 		"Element",
