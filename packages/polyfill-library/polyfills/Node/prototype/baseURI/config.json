@@ -1,0 +1,10 @@
+{
+  "browsers": {
+    "ie": "<12"
+  },
+  "dependencies": [
+    "Element"
+  ],
+  "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Node/baseURI",
+  "spec": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-baseURI"
+}
